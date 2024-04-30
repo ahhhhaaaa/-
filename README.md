@@ -1,1 +1,1 @@
-# Project-based-on-golang
+# simple-distributed-system

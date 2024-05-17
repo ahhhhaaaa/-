@@ -1,0 +1,18 @@
+{
+  "wechat_config": {
+    "text_config": {
+      "openai_url": "https://api.chatanywhere.tech",
+      "auth_token": "你的token",
+      "trigger_prefix": "小王"
+    },
+    "image_config": {
+      "openai_url": "https://api.chatanywhere.tech",
+      "auth_token": "你的token",
+      "trigger_prefix": "老王"
+    }
+  },
+  "context_config": {
+    "switch_on": true,
+    "cache_minute": 3
+  }
+}
